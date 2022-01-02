@@ -1,1 +1,1 @@
-# Rust-Programming-Practice
+# Rust Programming Practice
